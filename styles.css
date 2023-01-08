@@ -1,8 +1,6 @@
 
 /* Your CSS Code here. */
-.container{
-	height: 550px;
-	width: 550px;
+.holder{
 	background-color: yellow;
 	display : flex;
 	 flex-wrap: wrap;
