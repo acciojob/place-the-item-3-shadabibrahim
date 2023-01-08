@@ -4,6 +4,7 @@
 	background-color: yellow;
 	display : flex;
 	 flex-wrap: wrap;
+	justify-content: space-evenly;
 }
 .item1{
 	background-color: red;
