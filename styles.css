@@ -1,2 +1,24 @@
 
 /* Your CSS Code here. */
+.container{
+	height: 550px;
+	width: 550px;
+	background-color: yellow;
+	display : flex;
+	 flex-wrap: wrap;
+}
+.item1{
+	background-color: red;
+	height: 250px;
+	width: 250px;
+}
+.item2{
+	background-color: gray;
+	height: 250px;
+	width: 250px;
+}
+.item3{
+	background-color: red;
+	height: 250px;
+	width: 250px;
+}
